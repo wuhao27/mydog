@@ -1,0 +1,5 @@
+requests==2.21.0
+lxml==4.6.3
+pyexecjs==1.5.1
+DBUtils==1.3
+pymysql==0.9.3
